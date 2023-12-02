@@ -1,9 +1,12 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
-const Website = () => {
-  return (
-    <div>Website</div>
-  )
+const Youtube = () => {
+    return (
+        <Main>
+            Youtube
+        </Main>
+    )
 }
 
-export default Website
+export default Youtube
